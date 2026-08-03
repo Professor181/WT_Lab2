@@ -1,4 +1,4 @@
-# ⚡ Electricity Bill Calculator
+#  Electricity Bill Calculator
 
 A responsive web-based **Electricity Bill Calculator** developed using **JSP, Servlet, MVC Architecture, Bootstrap, and jQuery**.
 
@@ -6,7 +6,7 @@ The application calculates electricity charges based on the number of units cons
 
 ---
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Java
 - JSP (Java Server Pages)
@@ -21,7 +21,7 @@ The application calculates electricity charges based on the number of units cons
 
 ---
 
-## 📌 Features
+##  Features
 
 - User-friendly responsive interface
 - Consumer name input
@@ -34,7 +34,7 @@ The application calculates electricity charges based on the number of units cons
 
 ---
 
-## 💡 Electricity Tariff Calculation
+##  Electricity Tariff Calculation
 
 The bill is calculated according to the following slabs:
 
@@ -48,3 +48,4 @@ The bill is calculated according to the following slabs:
 ---
 
 ## 🏗️ Project Structure
+<img width="291" height="697" alt="image" src="https://github.com/user-attachments/assets/ef11499c-53c5-4d72-9d1c-28ad163450a3" />
